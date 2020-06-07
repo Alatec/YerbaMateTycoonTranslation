@@ -1,5 +1,5 @@
 ﻿Key,Type,Desc,English,Polish,Spanish,Portuguese
-Game/ActualLoanRate,Text,,<style=Negative>Atual Monthly Rate:</style>,<style=Negative>Aktualna Rata Pożyczki:</style>,,
+Game/ActualLoanRate,Text,,<style=Negative>Actual Monthly Rate:</style>,<style=Negative>Aktualna Rata Pożyczki:</style>,,
 Game/Additives,Text,,Additives,Dodatki,Aditivos,Aditivos
 Game/All,Text,,All,Wszystkie,Todo,
 Game/Amount,Text,,Amount,Kwota,,
@@ -418,4 +418,4 @@ YerbaAdditive/96Additive,Text,,Lemongrass,Trawa Cytrynowa,Pasto de Limón,
 YerbaAdditive/97Additive,Text,,Spices,Przyprawy,Especias,
 YerbaAdditive/98Additive,Text,,Rose,Róża,Rosa,
 YerbaAdditive/99Additive,Text,,Lavenda,Lawenda,Lavanda,
-YerbaAdditive/9Additive,Text,,Grapefruit,Grejpfrut,,
+YerbaAdditive/9Additive,Text,,Grapefruit,Grejpfrut,Pomelo,
