@@ -1,4 +1,4 @@
-﻿Key,Type,Desc,English,Polish,Spanish,Portuguese
+Key,Type,Desc,English,Polish,Spanish,Portuguese
 Game/ActualLoanRate,Text,,<style=Negative>Actual Monthly Rate:</style>,<style=Negative>Aktualna Rata Pożyczki:</style>,,
 Game/Additives,Text,,Additives,Dodatki,Aditivos,Aditivos
 Game/All,Text,,All,Wszystkie,Todo,
@@ -27,15 +27,15 @@ Game/CreationStepInformation7,Text,,Taste/aroma/appearance balancing...,Balansow
 Game/CreationStepInformation8,Text,,Finalization of product creation ...,Finalizacja tworzenia produktu...,,
 Game/CurrentlyBorrowed,Text,,<style=Negative>Currently Borrowed:</style>,<style=Negative>Aktualnie Pożyczono:</style>,,
 Game/DryingMethod,Text,,Drying Method,Metoda Suszenia,Metodo de secado,
-Game/EpicRate0,Text,,The taste pierced my feet,Smak przeszył moje stopy,El gusto agujereo mis pies,
+Game/EpicRate0,Text,,The taste pierced my soul,Smak przeszył moje stopy,El gusto agujereo mis pies,
 Game/EpicRate1,Text,,For this taste I would give away my Palo Santo,Dla tego smaku oddałbym swoje Palo Santo,Por este gusto daria mi Palo Santo,
 Game/EpicRate2,Text,,Eighth wonder of the world,Ósmy cud świata,La octava maravilla del mundo,
-Game/EpicRate3,Text,,My taste buds got orgasm,Moje kubki smakowe dostały orgazmu,Mis papilas gustativas tuvieron un orgasmo,
-Game/EpicRate4,Text,,It looks like shit and tastes even better,Wygląda jak gówno a smakuje jeszcze lepiej,,
+Game/EpicRate3,Text,,It made my taste buds orgasm,Moje kubki smakowe dostały orgazmu,Mis papilas gustativas tuvieron un orgasmo,
+Game/EpicRate4,Text,,It looks like heaven and tastes even better,Wygląda jak gówno a smakuje jeszcze lepiej,,
 Game/ExitGame,Text,"Don't touch things in <style>, style need to stay",<style=Negative>!</style><style=Important>Exit Game</style>,<style=Negative>!</style><style=Important>Wyjdź Z Gry</style>,<style=Negative>!</style><style=Important>salir del juego</style>,<style=Negative>!</style><style=Important>Sair do jogo</style>
 Game/Fans,Text,,Fans:,Fani:,Aficionados:,Fãs:
-Game/FinalEpicRate0,Text,,"For a long time nothing so good appeared on the market, just buy this yerba and drink it.","Dawno na rynku nie pojawiło się nic tak dobrego, nic tylko kupować i pić.","Hace mucho tiempo que nada tan bueno aparecia en el mercado, solo compra esta yerba y tomala.",
-Game/FinalEpicRate1,Text,,"White raven in the world of yerba, this taste will become the classic.","Biały kruk w świecie yerb, ten smak przejdzie do klasyki.","Un cuervo blanco en el mundo de la yerba, el gusto va a volverse un clasico.",
+Game/FinalEpicRate0,Text,,For a long time nothing this good has appeared on the market. Just buy this yerba and drink it.,"Dawno na rynku nie pojawiło się nic tak dobrego, nic tylko kupować i pić.","Hace mucho tiempo que nada tan bueno aparecia en el mercado, solo compra esta yerba y tomala.",
+Game/FinalEpicRate1,Text,,"A diamond in the rough in the world of yerba, this taste will become the classic.","Biały kruk w świecie yerb, ten smak przejdzie do klasyki.","Un cuervo blanco en el mundo de la yerba, el gusto va a volverse un clasico.",
 Game/FinalRateBad0,Text,,"If this yerba would cost $1, it still wouldn't be worth this price.","Jeśli ta yerba kosztowałaby $1, to nadal nie byłaby warta tej ceny.","Si esta yerba costara $1, aún no lo valdría.",
 Game/FinalRateBad1,Text,,A low-quality product that doesn't stand out from the competitions.,Produkt niskiej jakości niczym niewyróżniający się na tle konkurencji.,Un producto de baja calidad que no sobresale de sus competencia.,
 Game/FinalRateGood0,Text,,"And this is a product you should reach for, taste, aroma, appearance — that's it.","I to jest produkt, po który warto sięgnąć, smak, zapach, wygląd to jest to.","Este es un producto que deberias buscar, gusto, aroma, apariencia — solo eso.",
@@ -70,11 +70,10 @@ Game/PackageQuality,Text,,Packaging Quality,Jakość Opakowania,Calidad de empaq
 Game/PackageType,Text,,Package Type,Rodzaj Opakowania,Tipo de empaquetado,
 Game/PremiumQuality,Text,,Premium,Premium,Premium,Prêmio
 Game/Price,Text,,Price,Cena,Precio,Preço
-Game/ProductReady,Text,," Finished 
- Product"," Produkt 
+Game/ProductReady,Text,,Finished  Product," Produkt 
  Gotowy",Terminado,
 Game/Rate,Text,,Rate,Ocena,Puntuación,
-Game/RateBad0,Text,,Homeless feets smells better,Stopy kloszarda pachną lepiej,Los pies de un indigente huelen mejor,
+Game/RateBad0,Text,,A Homeless person’s feet smells better,Stopy kloszarda pachną lepiej,Los pies de un indigente huelen mejor,
 Game/RateBad1,Text,,No comment,Bez komentarza,Sin comentarios,
 Game/RateBad2,Text,,"Shame, disgrace, failure","Wstyd, hańba, porażka","Vergüenza, desgracia, fracaso",
 Game/RateBad3,Text,,I would not give it to a dog,Nie dałbym tego nawet psu,No se lo daria a un perro,
@@ -92,7 +91,7 @@ Game/RateNormal1,Text,,I do not recommend or advise against,Nie polecam ani nie 
 Game/RateNormal2,Text,,Could be better,Mogło być lepiej,Podria ser mejor,
 Game/RateNormal3,Text,,You are capable of more,Stać Was na więcej,Eres capaz de más,
 Game/RateNormal4,Text,,I was expecting something more,Spodziewałem się czegoś więcej,Estaba esperando algo más,
-Game/RateNormal5,Text,,"Okay, but do not do more","Dobra, ale więcej nie róbcie","Está bien, pero no hagas más",
+Game/RateNormal5,Text,,"Okay, but it needs more","Dobra, ale więcej nie róbcie","Está bien, pero no hagas más",
 Game/Refreshment,Text,,Refreshment,Orzeźwienie,Refresco,Refresco
 Game/Release,Text,,Release,Wydaj,,
 Game/Repay,Text,,Repay,Spłać,,
@@ -150,9 +149,9 @@ GameStart/CeoName,Text,,CEO Name,Imię Szefa,Nombre de CEO,
 GameStart/CeoPersonality0,Text,,Talented,Utalentowany,Talentoso,
 GameStart/CeoPersonality1,Text,,Hard-Working,Ciężko Pracujący,Trabajador,
 GameStart/CeoPersonalityMainName,Text,,CEO Personality,Osobowość Szefa,Personalidad de CEO,
-GameStart/CeoSpecialization0,Text,Don’t touch colors tag	,The CEO of your company is a real miser. <color=#ccff7d>+$15k money for start</color>,Szef twojej firmy to prawdziwy dusigrosz. <color=#ccff7d>+$15k pieniędzy na start</color>,El CEO de tu compania es tremendo miserable. <color=#ccff7d>+$15k dinero para el inicio</color>,
-GameStart/CeoSpecialization1,Text,Don’t touch colors tag	,The CEO of your company is a true leader. <color=#ccff7d>You can hire more people</color>,Szef twojej firmy to prawdziwy przywódca. <color=#ccff7d>Możesz zatrudniać większą liczbę pracowników</color>,El CEO de tu compania es un verdadero lider. <color=#ccff7d>Puedes emplear más personas</color>,
-GameStart/CeoSpecialization2,Text,Don’t touch colors tag	,The CEO of your company has a nose for business. <color=#ccff7d>Banks are more willing to give you credit + you have better credit terms.</color>,Szef twojej firmy ma nosa do interesów. <color=#ccff7d>Banki chętniej udzielają Ci kredytów + masz lepsze warunki kredytowania</color>,El CEO de tu compania tiene olfato para los negocios. <color=#ccff7d>Los bancos estan más dispuestos a darte prestamos + tienes mejores terminos de prestamos.</color>,
+GameStart/CeoSpecialization0,Text,Don’t touch colors tag,The CEO of your company is a real miser. <color=#ccff7d>+$15k money for start</color>,Szef twojej firmy to prawdziwy dusigrosz. <color=#ccff7d>+$15k pieniędzy na start</color>,El CEO de tu compania es tremendo miserable. <color=#ccff7d>+$15k dinero para el inicio</color>,
+GameStart/CeoSpecialization1,Text,Don’t touch colors tag,The CEO of your company is a true leader. <color=#ccff7d>You can hire more people</color>,Szef twojej firmy to prawdziwy przywódca. <color=#ccff7d>Możesz zatrudniać większą liczbę pracowników</color>,El CEO de tu compania es un verdadero lider. <color=#ccff7d>Puedes emplear más personas</color>,
+GameStart/CeoSpecialization2,Text,Don’t touch colors tag,The CEO of your company has a nose for business. <color=#ccff7d>Banks are more willing to give you credit + you have better credit terms.</color>,Szef twojej firmy ma nosa do interesów. <color=#ccff7d>Banki chętniej udzielają Ci kredytów + masz lepsze warunki kredytowania</color>,El CEO de tu compania tiene olfato para los negocios. <color=#ccff7d>Los bancos estan más dispuestos a darte prestamos + tienes mejores terminos de prestamos.</color>,
 GameStart/CeoSpecializationMainName,Text,,CEO Specialization,Specjalizacja Szefa,Especialización del CEO,
 GameStart/CheatModeOff,Text,,Cheat Mode Off,Tryb Oszustwa Wyłączony,Trucos apagados,
 GameStart/CheatModeOn,Text,,Cheat Mode On,Tryb Oszustwa Włączony,Trucos encendidos,
@@ -204,13 +203,13 @@ GameStart/YerbaPrepareSpecialization,Text,,Preparation — Specialization,Przyrz
 GameStart/YerbaSmokeSpecialization,Text,,Drying — Specialization,Suszenie — Specjalizacja,Secado  — Especialización,
 Jokes/EpicRateJoke,Text,Don't touch style tag,"Something amazing, <style=Important>I JOKED!</style>","Coś niesamowitego, <style=Important>ŻARTOWAŁEM!</style>","Algo sorprendente, <style=Important>Bromeaba!</style>",
 Jokes/NeverWinNumber,Text,,"Your company has gone bankrupt, but you have one more chance, the system drew a number from 0 to 99, if you will guess this number, you will be able to return to the game.","Twoja firma zbankrutowała, ale masz jeszcze jedną szansę, system wylosował liczbę od 0 do 99, jeśli zgadniesz tę liczbę, to będziesz mógł powrócić do gry","Tu compania ha quebrado, pero tienes otra oportunidad. El sistema eligio un numero del 0 al 99, si lo adivinas, podras volver al juego.",
-Jokes/Quote0,Text,,„It is Better to win than lose” - DonislawDev,„Lepiej wygrać niż przegrać” - DonislawDev,„Es mejor ganar que perder” - DonislawDev,
-Jokes/Quote1,Text,,„Creating the best yerba is the key to winning” - DonislawDev,„Kluczem do wygrania jest tworzenie dobrych yerb” - DonislawDev,„Crear la mejor yerba es la clave para ganar” - DonislawDev,
-Jokes/Quote2,Text,,„May Wojciech's feet bless you” - DonislawDev,„Niech stopy Wojciecha Cię błogosławią” - DonislawDev,„Que los pies de Wojciech te bendigan” - DonislawDev,
-Jokes/Quote3,Text,,„I wish you a nice day and good yerba” - DonislawDev,„Życzę Ci miłego dnia i dobrej yerby” - DonislawDev,„Te deseo un buen dia y buena yerba” - DonislawDev,
-Jokes/Quote4,Text,,„Calling yerba tea is like comparing this game to Wrticher 3” - DonislawDev,"„Nazywanie yerby herbatą, jest jak porównywanie tej gry do Wiedzmuna 3” - DonislawDev",„Decirle té a la yerba es como comparar este juego con Wrticher 3” - DonislawDev,
-Jokes/Quote5,Text,,„Each sold copy of this game is another pack of yerba for the developer” - DonislawDev,„Każda sprzedana kopia tej gry to kolejna paczka yerby dla developera” - DonislawDev,„Cada copia vendida de este juego es otro paquete de yerba para el desarrollador” - DonislawDev,
-Jokes/Quote6,Text,,„Only 1/1000000 players can see this text because all other players are not a failure like you” - DonislawDev,"„Tylko 1/1000000 graczy może zobaczyć ten tekst, ponieważ wszyscy inni gracze nie są porażką jak ty” - DonislawDev",„Solo 1 de cada 1000000 jugadores pueden ver este texto porque los otros jugadores no son fracasos como tú” - DonislawDev,
+Jokes/Quote0,Text,,“It is Better to win than lose” - DonislawDev,„Lepiej wygrać niż przegrać” - DonislawDev,„Es mejor ganar que perder” - DonislawDev,
+Jokes/Quote1,Text,,“Creating the best yerba is the key to winning” - DonislawDev,„Kluczem do wygrania jest tworzenie dobrych yerb” - DonislawDev,„Crear la mejor yerba es la clave para ganar” - DonislawDev,
+Jokes/Quote2,Text,,“May Wojciech's feet bless you” - DonislawDev,„Niech stopy Wojciecha Cię błogosławią” - DonislawDev,„Que los pies de Wojciech te bendigan” - DonislawDev,
+Jokes/Quote3,Text,,“I wish you a nice day and good yerba” - DonislawDev,„Życzę Ci miłego dnia i dobrej yerby” - DonislawDev,„Te deseo un buen dia y buena yerba” - DonislawDev,
+Jokes/Quote4,Text,,“Calling yerba tea is like comparing this game to Witcher 3” - DonislawDev,"„Nazywanie yerby herbatą, jest jak porównywanie tej gry do Wiedzmuna 3” - DonislawDev",„Decirle té a la yerba es como comparar este juego con Wrticher 3” - DonislawDev,
+Jokes/Quote5,Text,,“Each sold copy of this game is another pack of yerba for the developer” - DonislawDev,„Każda sprzedana kopia tej gry to kolejna paczka yerby dla developera” - DonislawDev,„Cada copia vendida de este juego es otro paquete de yerba para el desarrollador” - DonislawDev,
+Jokes/Quote6,Text,,“Only 1/1000000 players can see this text because all other players are not a failure like you” - DonislawDev,"„Tylko 1/1000000 graczy może zobaczyć ten tekst, ponieważ wszyscy inni gracze nie są porażką jak ty” - DonislawDev",„Solo 1 de cada 1000000 jugadores pueden ver este texto porque los otros jugadores no son fracasos como tú” - DonislawDev,
 Settings/BugReportName,Text,,Report Bug,Zgłoś Błąd,Reporta un Problema,
 Settings/Contact,Text,,Contact,Kontakt,Contacto,
 Settings/E-mail,Text,,"Got an idea what I can add/change in-game, got any business question? Got a question about the game? Write it here.
